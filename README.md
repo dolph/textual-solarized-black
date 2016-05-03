@@ -6,8 +6,7 @@ After having searched through all the different themes available for Textual we 
 
 ## Installation
 
-    $ cd ~/Library/Mobile\ Documents/iCloud~com~codeux~irc~textual5/Documents/Styles/
-    $ git clone https://github.com/dolph/textual-solarized-black.git
+    $ git clone https://github.com/dolph/textual-solarized-black.git ~/Library/Mobile\ Documents/iCloud~com~codeux~irc~textual5/Documents/Styles/Solarized\ Black/
 
 ## Support
 
