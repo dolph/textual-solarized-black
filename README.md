@@ -1,4 +1,4 @@
-# Solarized Dark theme for Textual
+# Solarized Black theme for Textual
 
 ![Screenshot](http://i.imgur.com/A6aUpUL.png)
 
